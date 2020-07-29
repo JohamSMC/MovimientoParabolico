@@ -435,7 +435,7 @@ Partial Class Form1
         '
         Me.Numeric_Timer.DecimalPlaces = 2
         Me.Numeric_Timer.Increment = New Decimal(New Integer() {1, 0, 0, 131072})
-        Me.Numeric_Timer.Location = New System.Drawing.Point(271, 148)
+        Me.Numeric_Timer.Location = New System.Drawing.Point(271, 152)
         Me.Numeric_Timer.Maximum = New Decimal(New Integer() {5, 0, 0, 65536})
         Me.Numeric_Timer.Minimum = New Decimal(New Integer() {1, 0, 0, 131072})
         Me.Numeric_Timer.Name = "Numeric_Timer"

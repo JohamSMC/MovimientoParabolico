@@ -59,3 +59,16 @@ C:\Users\Sebastian\Desktop\MovimientoParabolico-Cadena\Taller1-CaidaLibreYrebote
 C:\Users\Sebastian\Desktop\MovimientoParabolico-Cadena\Taller1-CaidaLibreYrebote-HernanCadena-JohamMedina\obj\Debug\Taller1-CaidaLibreYrebote-HernanCadena-JohamMedina.exe
 C:\Users\Sebastian\Desktop\MovimientoParabolico-Cadena\Taller1-CaidaLibreYrebote-HernanCadena-JohamMedina\obj\Debug\Taller1-CaidaLibreYrebote-HernanCadena-JohamMedina.xml
 C:\Users\Sebastian\Desktop\MovimientoParabolico-Cadena\Taller1-CaidaLibreYrebote-HernanCadena-JohamMedina\obj\Debug\Taller1-CaidaLibreYrebote-HernanCadena-JohamMedina.pdb
+C:\Users\Sebastian\Desktop\Taller1-CaidaLibreYrebote\Taller1-CaidaLibreYrebote-HernanCadena-JohamMedina\bin\Debug\Taller1-CaidaLibreYrebote-HernanCadena-JohamMedina.exe.config
+C:\Users\Sebastian\Desktop\Taller1-CaidaLibreYrebote\Taller1-CaidaLibreYrebote-HernanCadena-JohamMedina\bin\Debug\Taller1-CaidaLibreYrebote-HernanCadena-JohamMedina.exe
+C:\Users\Sebastian\Desktop\Taller1-CaidaLibreYrebote\Taller1-CaidaLibreYrebote-HernanCadena-JohamMedina\bin\Debug\Taller1-CaidaLibreYrebote-HernanCadena-JohamMedina.pdb
+C:\Users\Sebastian\Desktop\Taller1-CaidaLibreYrebote\Taller1-CaidaLibreYrebote-HernanCadena-JohamMedina\bin\Debug\Taller1-CaidaLibreYrebote-HernanCadena-JohamMedina.xml
+C:\Users\Sebastian\Desktop\Taller1-CaidaLibreYrebote\Taller1-CaidaLibreYrebote-HernanCadena-JohamMedina\obj\Debug\Taller1-CaidaLibreYrebote-HernanCadena-JohamMedina.vbprojAssemblyReference.cache
+C:\Users\Sebastian\Desktop\Taller1-CaidaLibreYrebote\Taller1-CaidaLibreYrebote-HernanCadena-JohamMedina\obj\Debug\Taller1_CaidaLibreYrebote_HernanCadena_JohamMedina.Form1.resources
+C:\Users\Sebastian\Desktop\Taller1-CaidaLibreYrebote\Taller1-CaidaLibreYrebote-HernanCadena-JohamMedina\obj\Debug\Taller1_CaidaLibreYrebote_HernanCadena_JohamMedina.Form2.resources
+C:\Users\Sebastian\Desktop\Taller1-CaidaLibreYrebote\Taller1-CaidaLibreYrebote-HernanCadena-JohamMedina\obj\Debug\Taller1_CaidaLibreYrebote_HernanCadena_JohamMedina.Resources.resources
+C:\Users\Sebastian\Desktop\Taller1-CaidaLibreYrebote\Taller1-CaidaLibreYrebote-HernanCadena-JohamMedina\obj\Debug\Taller1-CaidaLibreYrebote-HernanCadena-JohamMedina.vbproj.GenerateResource.cache
+C:\Users\Sebastian\Desktop\Taller1-CaidaLibreYrebote\Taller1-CaidaLibreYrebote-HernanCadena-JohamMedina\obj\Debug\Taller1-CaidaLibreYrebote-HernanCadena-JohamMedina.vbproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\Taller1-CaidaLibreYrebote\Taller1-CaidaLibreYrebote-HernanCadena-JohamMedina\obj\Debug\Taller1-CaidaLibreYrebote-HernanCadena-JohamMedina.exe
+C:\Users\Sebastian\Desktop\Taller1-CaidaLibreYrebote\Taller1-CaidaLibreYrebote-HernanCadena-JohamMedina\obj\Debug\Taller1-CaidaLibreYrebote-HernanCadena-JohamMedina.xml
+C:\Users\Sebastian\Desktop\Taller1-CaidaLibreYrebote\Taller1-CaidaLibreYrebote-HernanCadena-JohamMedina\obj\Debug\Taller1-CaidaLibreYrebote-HernanCadena-JohamMedina.pdb

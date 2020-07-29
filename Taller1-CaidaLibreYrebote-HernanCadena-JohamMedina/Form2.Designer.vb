@@ -22,18 +22,18 @@ Partial Class Form2
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Dim ChartArea5 As System.Windows.Forms.DataVisualization.Charting.ChartArea = New System.Windows.Forms.DataVisualization.Charting.ChartArea()
-        Dim Legend5 As System.Windows.Forms.DataVisualization.Charting.Legend = New System.Windows.Forms.DataVisualization.Charting.Legend()
-        Dim Series5 As System.Windows.Forms.DataVisualization.Charting.Series = New System.Windows.Forms.DataVisualization.Charting.Series()
-        Dim ChartArea6 As System.Windows.Forms.DataVisualization.Charting.ChartArea = New System.Windows.Forms.DataVisualization.Charting.ChartArea()
-        Dim Legend6 As System.Windows.Forms.DataVisualization.Charting.Legend = New System.Windows.Forms.DataVisualization.Charting.Legend()
-        Dim Series6 As System.Windows.Forms.DataVisualization.Charting.Series = New System.Windows.Forms.DataVisualization.Charting.Series()
-        Dim ChartArea7 As System.Windows.Forms.DataVisualization.Charting.ChartArea = New System.Windows.Forms.DataVisualization.Charting.ChartArea()
-        Dim Legend7 As System.Windows.Forms.DataVisualization.Charting.Legend = New System.Windows.Forms.DataVisualization.Charting.Legend()
-        Dim Series7 As System.Windows.Forms.DataVisualization.Charting.Series = New System.Windows.Forms.DataVisualization.Charting.Series()
-        Dim ChartArea8 As System.Windows.Forms.DataVisualization.Charting.ChartArea = New System.Windows.Forms.DataVisualization.Charting.ChartArea()
-        Dim Legend8 As System.Windows.Forms.DataVisualization.Charting.Legend = New System.Windows.Forms.DataVisualization.Charting.Legend()
-        Dim Series8 As System.Windows.Forms.DataVisualization.Charting.Series = New System.Windows.Forms.DataVisualization.Charting.Series()
+        Dim ChartArea1 As System.Windows.Forms.DataVisualization.Charting.ChartArea = New System.Windows.Forms.DataVisualization.Charting.ChartArea()
+        Dim Legend1 As System.Windows.Forms.DataVisualization.Charting.Legend = New System.Windows.Forms.DataVisualization.Charting.Legend()
+        Dim Series1 As System.Windows.Forms.DataVisualization.Charting.Series = New System.Windows.Forms.DataVisualization.Charting.Series()
+        Dim ChartArea2 As System.Windows.Forms.DataVisualization.Charting.ChartArea = New System.Windows.Forms.DataVisualization.Charting.ChartArea()
+        Dim Legend2 As System.Windows.Forms.DataVisualization.Charting.Legend = New System.Windows.Forms.DataVisualization.Charting.Legend()
+        Dim Series2 As System.Windows.Forms.DataVisualization.Charting.Series = New System.Windows.Forms.DataVisualization.Charting.Series()
+        Dim ChartArea3 As System.Windows.Forms.DataVisualization.Charting.ChartArea = New System.Windows.Forms.DataVisualization.Charting.ChartArea()
+        Dim Legend3 As System.Windows.Forms.DataVisualization.Charting.Legend = New System.Windows.Forms.DataVisualization.Charting.Legend()
+        Dim Series3 As System.Windows.Forms.DataVisualization.Charting.Series = New System.Windows.Forms.DataVisualization.Charting.Series()
+        Dim ChartArea4 As System.Windows.Forms.DataVisualization.Charting.ChartArea = New System.Windows.Forms.DataVisualization.Charting.ChartArea()
+        Dim Legend4 As System.Windows.Forms.DataVisualization.Charting.Legend = New System.Windows.Forms.DataVisualization.Charting.Legend()
+        Dim Series4 As System.Windows.Forms.DataVisualization.Charting.Series = New System.Windows.Forms.DataVisualization.Charting.Series()
         Me.ChartX = New System.Windows.Forms.DataVisualization.Charting.Chart()
         Me.ChartY = New System.Windows.Forms.DataVisualization.Charting.Chart()
         Me.ChartVx = New System.Windows.Forms.DataVisualization.Charting.Chart()
@@ -48,23 +48,23 @@ Partial Class Form2
         'ChartX
         '
         Me.ChartX.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer))
-        ChartArea5.AxisX.MajorGrid.Enabled = False
-        ChartArea5.AxisY.MajorGrid.Enabled = False
-        ChartArea5.AxisY.Minimum = 0R
-        ChartArea5.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer))
-        ChartArea5.Name = "ChartArea1"
-        Me.ChartX.ChartAreas.Add(ChartArea5)
-        Legend5.Name = "Legend1"
-        Me.ChartX.Legends.Add(Legend5)
+        ChartArea1.AxisX.MajorGrid.Enabled = False
+        ChartArea1.AxisY.MajorGrid.Enabled = False
+        ChartArea1.AxisY.Minimum = 0R
+        ChartArea1.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer))
+        ChartArea1.Name = "ChartArea1"
+        Me.ChartX.ChartAreas.Add(ChartArea1)
+        Legend1.Name = "Legend1"
+        Me.ChartX.Legends.Add(Legend1)
         Me.ChartX.Location = New System.Drawing.Point(10, 80)
         Me.ChartX.Name = "ChartX"
-        Series5.BorderWidth = 3
-        Series5.ChartArea = "ChartArea1"
-        Series5.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline
-        Series5.Color = System.Drawing.Color.Black
-        Series5.Legend = "Legend1"
-        Series5.Name = "X(t)"
-        Me.ChartX.Series.Add(Series5)
+        Series1.BorderWidth = 3
+        Series1.ChartArea = "ChartArea1"
+        Series1.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline
+        Series1.Color = System.Drawing.Color.Black
+        Series1.Legend = "Legend1"
+        Series1.Name = "X(t)"
+        Me.ChartX.Series.Add(Series1)
         Me.ChartX.Size = New System.Drawing.Size(450, 200)
         Me.ChartX.TabIndex = 0
         Me.ChartX.Text = "Chart1"
@@ -72,23 +72,23 @@ Partial Class Form2
         'ChartY
         '
         Me.ChartY.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer))
-        ChartArea6.AxisX.MajorGrid.Enabled = False
-        ChartArea6.AxisY.MajorGrid.Enabled = False
-        ChartArea6.AxisY.Minimum = 0R
-        ChartArea6.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer))
-        ChartArea6.Name = "ChartArea1"
-        Me.ChartY.ChartAreas.Add(ChartArea6)
-        Legend6.Name = "Legend1"
-        Me.ChartY.Legends.Add(Legend6)
+        ChartArea2.AxisX.MajorGrid.Enabled = False
+        ChartArea2.AxisY.MajorGrid.Enabled = False
+        ChartArea2.AxisY.Minimum = 0R
+        ChartArea2.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer))
+        ChartArea2.Name = "ChartArea1"
+        Me.ChartY.ChartAreas.Add(ChartArea2)
+        Legend2.Name = "Legend1"
+        Me.ChartY.Legends.Add(Legend2)
         Me.ChartY.Location = New System.Drawing.Point(500, 80)
         Me.ChartY.Name = "ChartY"
-        Series6.BorderWidth = 3
-        Series6.ChartArea = "ChartArea1"
-        Series6.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline
-        Series6.Color = System.Drawing.Color.DarkRed
-        Series6.Legend = "Legend1"
-        Series6.Name = "Y(t)"
-        Me.ChartY.Series.Add(Series6)
+        Series2.BorderWidth = 3
+        Series2.ChartArea = "ChartArea1"
+        Series2.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline
+        Series2.Color = System.Drawing.Color.DarkRed
+        Series2.Legend = "Legend1"
+        Series2.Name = "Y(t)"
+        Me.ChartY.Series.Add(Series2)
         Me.ChartY.Size = New System.Drawing.Size(450, 200)
         Me.ChartY.TabIndex = 1
         Me.ChartY.Text = "Chart1"
@@ -96,21 +96,21 @@ Partial Class Form2
         'ChartVx
         '
         Me.ChartVx.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer))
-        ChartArea7.AxisX.MajorGrid.Enabled = False
-        ChartArea7.AxisY.MajorGrid.Enabled = False
-        ChartArea7.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer))
-        ChartArea7.Name = "ChartArea1"
-        Me.ChartVx.ChartAreas.Add(ChartArea7)
-        Legend7.Name = "Legend1"
-        Me.ChartVx.Legends.Add(Legend7)
+        ChartArea3.AxisX.MajorGrid.Enabled = False
+        ChartArea3.AxisY.MajorGrid.Enabled = False
+        ChartArea3.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer))
+        ChartArea3.Name = "ChartArea1"
+        Me.ChartVx.ChartAreas.Add(ChartArea3)
+        Legend3.Name = "Legend1"
+        Me.ChartVx.Legends.Add(Legend3)
         Me.ChartVx.Location = New System.Drawing.Point(10, 330)
         Me.ChartVx.Name = "ChartVx"
-        Series7.BorderWidth = 3
-        Series7.ChartArea = "ChartArea1"
-        Series7.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline
-        Series7.Legend = "Legend1"
-        Series7.Name = "Vx(t)"
-        Me.ChartVx.Series.Add(Series7)
+        Series3.BorderWidth = 3
+        Series3.ChartArea = "ChartArea1"
+        Series3.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline
+        Series3.Legend = "Legend1"
+        Series3.Name = "Vx(t)"
+        Me.ChartVx.Series.Add(Series3)
         Me.ChartVx.Size = New System.Drawing.Size(450, 200)
         Me.ChartVx.TabIndex = 2
         Me.ChartVx.Text = "Chart1"
@@ -118,22 +118,22 @@ Partial Class Form2
         'ChartVy
         '
         Me.ChartVy.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer))
-        ChartArea8.AxisX.MajorGrid.Enabled = False
-        ChartArea8.AxisY.MajorGrid.Enabled = False
-        ChartArea8.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer))
-        ChartArea8.Name = "ChartArea1"
-        Me.ChartVy.ChartAreas.Add(ChartArea8)
-        Legend8.Name = "Legend1"
-        Me.ChartVy.Legends.Add(Legend8)
+        ChartArea4.AxisX.MajorGrid.Enabled = False
+        ChartArea4.AxisY.MajorGrid.Enabled = False
+        ChartArea4.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer))
+        ChartArea4.Name = "ChartArea1"
+        Me.ChartVy.ChartAreas.Add(ChartArea4)
+        Legend4.Name = "Legend1"
+        Me.ChartVy.Legends.Add(Legend4)
         Me.ChartVy.Location = New System.Drawing.Point(500, 330)
         Me.ChartVy.Name = "ChartVy"
-        Series8.BorderWidth = 3
-        Series8.ChartArea = "ChartArea1"
-        Series8.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline
-        Series8.Color = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(0, Byte), Integer))
-        Series8.Legend = "Legend1"
-        Series8.Name = "Vy(t)"
-        Me.ChartVy.Series.Add(Series8)
+        Series4.BorderWidth = 3
+        Series4.ChartArea = "ChartArea1"
+        Series4.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline
+        Series4.Color = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(0, Byte), Integer))
+        Series4.Legend = "Legend1"
+        Series4.Name = "Vy(t)"
+        Me.ChartVy.Series.Add(Series4)
         Me.ChartVy.Size = New System.Drawing.Size(450, 200)
         Me.ChartVy.TabIndex = 3
         Me.ChartVy.Text = "Chart1"
@@ -146,7 +146,7 @@ Partial Class Form2
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(429, 32)
         Me.Label1.TabIndex = 5
-        Me.Label1.Text = "Graficas de la Silmuación"
+        Me.Label1.Text = "Graficas de la Simulación"
         '
         'Form2
         '

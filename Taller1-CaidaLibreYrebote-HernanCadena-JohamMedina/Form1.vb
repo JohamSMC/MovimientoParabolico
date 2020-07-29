@@ -31,12 +31,24 @@
 
     'Posicionar la masa segun el dato de posicion vertical de entrada
     Private Sub TextBox_y0_TextChanged(sender As Object, e As EventArgs) Handles TextBox_y0.TextChanged
+        If Val(TextBox_y0.Text) < 0 Then
+            TextBox_y0.Text = "0"
+        End If
         masa.Top = cero - alto - Val(TextBox_y0.Text)
     End Sub
 
     'Posicionar la masa segun el dato de posicion horizontal de entrada
     Private Sub TextBox_x0_TextChanged(sender As Object, e As EventArgs) Handles TextBox_x0.TextChanged
+        If Val(TextBox_x0.Text) < 0 Then
+            TextBox_x0.Text = "0"
+        End If
         masa.Left = coorX + Val(TextBox_x0.Text)
+    End Sub
+
+    Private Sub TextBox_vi_TextChanged(sender As Object, e As EventArgs) Handles TextBox_vi.TextChanged
+        If Val(TextBox_vi.Text) < 0 Then
+            TextBox_vi.Text = "0"
+        End If
     End Sub
 
     'Resetear todos los datos de entrada y salida del sistema
@@ -78,6 +90,20 @@
 
     Private Sub Button_start_Click(sender As Object, e As EventArgs) Handles Button_start.Click
         Button_start.Enabled = False
+
+
+        ' Validar valores no negativos para la velocidad, posición X y posición Y '
+        If Val(TextBox_y0.Text) < 0 Then
+            TextBox_y0.Text = "0"
+        End If
+
+        If Val(TextBox_x0.Text) < 0 Then
+            TextBox_x0.Text = "0"
+        End If
+
+        If Val(TextBox_vi.Text) < 0 Then
+            TextBox_vi.Text = "0"
+        End If
 
         iniciarEntradas(Val(TextBox_x0.Text),
                         Val(TextBox_y0.Text),
